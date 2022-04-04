@@ -1,0 +1,61 @@
+10.142.14.73 – DB
+10.142.14.82
+10.142.14.83
+10.142.15.224   - Elastic, Kibana /var/lib/docker/overlay2/bbb1bb13a1111f28a464c1e898b01c304b5c666babfdbd3fcf59b8fce2a6d2f6/diff/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/7973/fs/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+10.142.15.225- Elastic, Kibana
+/var/lib/docker/overlay2/4dc3b4e5818455867feda628f38e6866f46113d47652dca9cf5e649455ac0e16/diff/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/8216/fs/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+10.142.15.228- Elastic, Kibana
+/var/lib/docker/overlay2/52a8bb1a85a8bfade8c37cf3ac6de112314bd50358a1a3060de7c29481f3d365/diff/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/628/fs/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+10.142.15.230 – Sandbox UM 
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/38/fs/opt/softwareag/common/lib/ext/log4j/log4j-core.jar
+
+10.142.15.235 – Sandbox IS 
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/493/fs/opt/softwareag/common/lib/ext/log4j/log4j-core.jar
+10.142.15.237 - webMethods Universal Messaging
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/19829/fs/opt/softwareag/common/lib/diagnostic-tool/log4j-core.jar
+
+10.142.15.240 - registry
+/var/lib/docker/overlay2/d82229eee105cbe544cb213b87bd146abb9859e6087eb1210dcccdccb676a0e9/diff/opt/softwareag/common/runtime/bundles/ext/eclipse/plugins/org.apache.logging.log4j.core_2.13.3.jar
+
+10.142.15.244 -webMethods Integration Server , Adapters
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/7681/fs/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+10.142.15.245 – API PORTAL
+/data/softwareag/API_Portal/server/bin/agentLocalRepo/.unpacked/20210930.021706_y-cloudsearch-run-prod-10.0.14.0-runnable.zip/lib/cloudsearch-app-10.0.14.0-exec.jar
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/7681/fs/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+/data/softwareag/API_Portal/server/bin/plugins/y-cloudsearch-plugin-10.0.14.0_cloudsearch_l_300659.zip/log4j-1.2.17-SAG.jar
+/data/softwareag/API_Portal/server/acc/lib/log4j-core-2.13.2.jar
+/data/softwareag/API_Portal/server/bin/plugins/y-cloudsearch-plugin-10.0.14.0_cloudsearch_l_300659.zip/log4j-1.2.17-SAG.jar
+10.142.15.248 - webMethods Integration Server , Adapters
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/78/fs/opt/softwareag/common/lib/ext/log4j/log4j-core.jar
+10.142.15.249 - API Gateway Advanced (2 of 2) *Containerized
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/3744/fs/opt/softwareag/common/lib/ext/log4j/log4j-core.jar
+10.142.15.251 - webMethods Universal Messaging (Active) *Containerized
+
+/data/overlay2/9117bbd4064a99cb972c428ab40b83794f2a3603149615875d1d8bb034bd5028/diff/opt/softwareag/common/lib/ext/log4j/log4j-core.jar
+10.142.15.253 – apigw adv
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/3593/fs/opt/softwareag/common/lib/ext/log4j-core.jar
+10.142.15.124 
+/opt/sonar/sonar/elasticsearch/lib/log4j-core-2.9.1.jar
+10.168.250.222
+
+
+PROD DR 
+10.172.19.225 - Elastic, Kibana (API GW Advanced)
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/826/fs/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+
+10.172.19.228- Elastic, Kibana (API GW Advanced)
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/576/fs/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+
+10.172.19.243 - Elasticsearch Cluster - Data
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/23196/fs/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+
+10.172.19.247 - Elasticsearch Cluster - Data
+/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/27449/fs/usr/share/elasticsearch/lib/log4j-core-2.11.1.jar
+10.172.19.254 – K8s master 
+/var/lib/docker/overlay2/0da558f78f1b6f041caf452e4bf1c721a54bc7c114a21d324785f338f48523f9/diff/opt/softwareag/common/lib/diagnostic-tool/log4j-core.jar
+172.29.3.171 – API gw std 
+/u01/softwareag/common/lib/diagnostic-tool/log4j-core.jar
+
